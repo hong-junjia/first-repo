@@ -1,0 +1,7 @@
+echo:写入内容
+cat:查看文件内容
+git add：将文件添加到暂存区-->查看status时会变绿色
+      add *.txt -->将所有txt结尾的文件添加到暂存区里面
+      add.    -->添加当前所有文件
+git commit -m "xxxx":提交暂存区中的文件到仓库中
+git log:查看提交记录
